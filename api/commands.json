@@ -75,6 +75,17 @@
       "status": "failed",
       "message": "No board 'valve-2' in the home config",
       "finishedAt": "2026-10-02T11:35:00.380Z"
+    },
+    {
+      "id": "7679a717695f5f1748f6719ef028cb00",
+      "type": "valve",
+      "apiKey": "valves-2",
+      "channel": 1,
+      "action": "close",
+      "name": "Hot water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:37:05.205Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -109,5 +120,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:35:00.381Z"
+  "lastchanged": "2026-10-02T11:37:05.544Z"
 }
