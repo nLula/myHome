@@ -1,5 +1,16 @@
 {
-  "commands": [],
+  "commands": [
+    {
+      "id": "c050f919d29064ca3dbe0cbddad1d25a",
+      "type": "valve",
+      "apiKey": "valve-1",
+      "action": "open",
+      "name": "Cold water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T10:55:12.028Z",
+      "status": "pending"
+    }
+  ],
   "state": {
     "valve-1": {
       "position": "closed",
@@ -17,5 +28,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T10:52:09.007Z"
+  "lastchanged": "2026-10-02T10:55:12.048Z"
 }
