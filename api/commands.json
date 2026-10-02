@@ -37,6 +37,16 @@
       "status": "done",
       "message": "Kotchen Light is ON",
       "finishedAt": "2026-10-02T11:02:24.399Z"
+    },
+    {
+      "id": "04dc19e3abc002593b4e9efeeef8286f",
+      "type": "valve",
+      "apiKey": "valve-1",
+      "action": "close",
+      "name": "Cold water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:02:28.642Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -56,5 +66,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:02:24.399Z"
+  "lastchanged": "2026-10-02T11:02:28.903Z"
 }
