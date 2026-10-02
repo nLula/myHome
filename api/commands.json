@@ -127,6 +127,17 @@
       "status": "done",
       "message": "Hot water is closed",
       "finishedAt": "2026-10-02T11:39:20.286Z"
+    },
+    {
+      "id": "5770680843e3ba584e248180555b2e31",
+      "type": "valve",
+      "apiKey": "valves-1",
+      "channel": 1,
+      "action": "close",
+      "name": "Cold water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:39:47.434Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -161,5 +172,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:39:20.286Z"
+  "lastchanged": "2026-10-02T11:39:47.689Z"
 }
