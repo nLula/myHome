@@ -24,6 +24,17 @@
       "status": "done",
       "message": "Kotchen Light is OFF",
       "finishedAt": "2026-10-02T10:56:11.725Z"
+    },
+    {
+      "id": "47db7d50571088446264f08fed746335",
+      "type": "switch",
+      "apiKey": "switch-1",
+      "channel": 1,
+      "action": "on",
+      "name": "Kotchen Light",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:02:17.661Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -43,5 +54,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T10:56:11.725Z"
+  "lastchanged": "2026-10-02T11:02:17.920Z"
 }
