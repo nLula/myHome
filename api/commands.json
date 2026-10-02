@@ -34,7 +34,9 @@
       "name": "Kotchen Light",
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:02:17.661Z",
-      "status": "pending"
+      "status": "done",
+      "message": "Kotchen Light is ON",
+      "finishedAt": "2026-10-02T11:02:24.399Z"
     }
   ],
   "state": {
@@ -44,8 +46,8 @@
       "by": "home"
     },
     "switch-1/ch1": {
-      "position": "off",
-      "at": "2026-10-02T10:56:11.725Z",
+      "position": "on",
+      "at": "2026-10-02T11:02:24.399Z",
       "by": "home"
     },
     "switch-1/ch2": {
@@ -54,5 +56,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:02:17.920Z"
+  "lastchanged": "2026-10-02T11:02:24.399Z"
 }
