@@ -60,6 +60,17 @@
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:34:53.015Z",
       "status": "pending"
+    },
+    {
+      "id": "ee48c92bf4dd924f86f8d00f55090728",
+      "type": "valve",
+      "apiKey": "valve-2",
+      "channel": 1,
+      "action": "close",
+      "name": "Hot water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:34:54.684Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -94,5 +105,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:34:53.255Z"
+  "lastchanged": "2026-10-02T11:34:54.946Z"
 }
