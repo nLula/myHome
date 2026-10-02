@@ -124,7 +124,9 @@
       "name": "Hot water",
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:39:06.713Z",
-      "status": "pending"
+      "status": "done",
+      "message": "Hot water is closed",
+      "finishedAt": "2026-10-02T11:39:20.286Z"
     }
   ],
   "state": {
@@ -149,8 +151,8 @@
       "by": "home"
     },
     "valves-1/v2": {
-      "position": "open",
-      "at": "2026-10-02T11:32:22.408Z",
+      "position": "closed",
+      "at": "2026-10-02T11:39:20.286Z",
       "by": "home"
     },
     "internet": {
@@ -159,5 +161,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:39:06.964Z"
+  "lastchanged": "2026-10-02T11:39:20.286Z"
 }
