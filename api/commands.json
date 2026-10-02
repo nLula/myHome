@@ -59,7 +59,9 @@
       "name": "Cold water",
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:34:53.015Z",
-      "status": "pending"
+      "status": "failed",
+      "message": "No board 'valve-1' in the home config",
+      "finishedAt": "2026-10-02T11:34:59.175Z"
     },
     {
       "id": "ee48c92bf4dd924f86f8d00f55090728",
@@ -105,5 +107,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:34:54.946Z"
+  "lastchanged": "2026-10-02T11:34:59.175Z"
 }
