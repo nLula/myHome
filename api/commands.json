@@ -99,6 +99,17 @@
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:38:01.204Z",
       "status": "pending"
+    },
+    {
+      "id": "289adb85b54478b150e179722ad5f7b6",
+      "type": "valve",
+      "apiKey": "valves-1",
+      "channel": 1,
+      "action": "open",
+      "name": "Cold water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:38:02.615Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -133,5 +144,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:38:01.483Z"
+  "lastchanged": "2026-10-02T11:38:02.852Z"
 }
