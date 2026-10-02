@@ -1,0 +1,21 @@
+{
+  "commands": [],
+  "state": {
+    "valve-1": {
+      "position": "closed",
+      "at": "2026-10-02T10:52:09.007Z",
+      "by": "home"
+    },
+    "switch-1/ch1": {
+      "position": "on",
+      "at": "2026-10-02T10:52:09.007Z",
+      "by": "home"
+    },
+    "switch-1/ch2": {
+      "position": "off",
+      "at": "2026-10-02T10:52:09.007Z",
+      "by": "home"
+    }
+  },
+  "lastchanged": "2026-10-02T10:52:09.007Z"
+}
