@@ -137,7 +137,9 @@
       "name": "Cold water",
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:39:47.434Z",
-      "status": "pending"
+      "status": "done",
+      "message": "Cold water is closed",
+      "finishedAt": "2026-10-02T11:39:58.198Z"
     }
   ],
   "state": {
@@ -157,8 +159,8 @@
       "by": "home"
     },
     "valves-1/v1": {
-      "position": "open",
-      "at": "2026-10-02T11:38:16.125Z",
+      "position": "closed",
+      "at": "2026-10-02T11:39:58.198Z",
       "by": "home"
     },
     "valves-1/v2": {
@@ -172,5 +174,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:39:47.689Z"
+  "lastchanged": "2026-10-02T11:39:58.198Z"
 }
