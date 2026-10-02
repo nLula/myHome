@@ -11,6 +11,17 @@
       "status": "done",
       "message": "Cold water is open",
       "finishedAt": "2026-10-02T10:55:26.571Z"
+    },
+    {
+      "id": "b18e448c859b4c9bb51d80387a7851dc",
+      "type": "switch",
+      "apiKey": "switch-1",
+      "channel": 1,
+      "action": "off",
+      "name": "Kotchen Light",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T10:56:07.174Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -30,5 +41,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T10:55:26.571Z"
+  "lastchanged": "2026-10-02T10:56:09.472Z"
 }
