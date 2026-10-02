@@ -53,8 +53,8 @@
   ],
   "state": {
     "valve-1": {
-      "position": "closed",
-      "at": "2026-10-02T11:02:43.268Z",
+      "position": "unknown",
+      "at": "2026-10-02T11:30:39.951Z",
       "by": "home"
     },
     "switch-1/ch1": {
@@ -63,10 +63,10 @@
       "by": "home"
     },
     "switch-1/ch2": {
-      "position": "off",
-      "at": "2026-10-02T10:52:09.007Z",
+      "position": "on",
+      "at": "2026-10-02T11:30:39.951Z",
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:02:43.268Z"
+  "lastchanged": "2026-10-02T11:30:39.951Z"
 }
