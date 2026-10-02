@@ -49,6 +49,17 @@
       "status": "done",
       "message": "Cold water is closed",
       "finishedAt": "2026-10-02T11:02:43.268Z"
+    },
+    {
+      "id": "b58bf369769dfded886708a2016c8b9d",
+      "type": "valve",
+      "apiKey": "valve-1",
+      "channel": 1,
+      "action": "close",
+      "name": "Cold water",
+      "requestedBy": "Android",
+      "requestedAt": "2026-10-02T11:34:53.015Z",
+      "status": "pending"
     }
   ],
   "state": {
@@ -83,5 +94,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:32:22.409Z"
+  "lastchanged": "2026-10-02T11:34:53.255Z"
 }
