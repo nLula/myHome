@@ -85,7 +85,9 @@
       "name": "Hot water",
       "requestedBy": "Android",
       "requestedAt": "2026-10-02T11:37:05.205Z",
-      "status": "pending"
+      "status": "failed",
+      "message": "No board 'valves-2' in the home config",
+      "finishedAt": "2026-10-02T11:37:09.074Z"
     }
   ],
   "state": {
@@ -120,5 +122,5 @@
       "by": "home"
     }
   },
-  "lastchanged": "2026-10-02T11:37:05.544Z"
+  "lastchanged": "2026-10-02T11:37:09.074Z"
 }
